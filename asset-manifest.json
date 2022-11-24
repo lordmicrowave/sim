@@ -2,8 +2,8 @@
   "files": {
     "main.css": "static/css/main.92b1f14e.css",
     "main.js": "static/js/main.11353566.js",
-    "static/js/787.dddb8f2a.chunk.js": "/adhd-simulation.git/static/js/787.dddb8f2a.chunk.js",
-    "static/media/portal.gif": "/adhd-simulation.git/static/media/portal.2184e72265ad0a3d449b.gif",
+    "js/787.dddb8f2a.chunk.js": "js/787.dddb8f2a.chunk.js",
+    "static/media/portal.gif": "static/media/portal.2184e72265ad0a3d449b.gif",
     "static/media/squareframe.png": "/adhd-simulation.git/static/media/squareframe.d98d8ed0ba668258495f.png",
     "static/media/no-signal-tv.gif": "/adhd-simulation.git/static/media/no-signal-tv.9ddab0b661f5e222e816.gif",
     "static/media/sonytv.png": "/adhd-simulation.git/static/media/sonytv.5e66e532a66f39f9274b.png",
@@ -39,7 +39,7 @@
     "static/media/dancing-baby.gif": "/adhd-simulation.git/static/media/dancing-baby.d8d82c9b97abf2985d81.gif",
     "static/media/Alert.png": "/adhd-simulation.git/static/media/Alert.960f027b872ea92e2edb.png",
     "static/media/Additional Settings.png": "/adhd-simulation.git/static/media/Additional Settings.8a280665ad711b5273a1.png",
-    "static/media/Back.png": "/adhd-simulation.git/static/media/Back.fd37b37c809d37e43122.png",
+    "static/media/Back.png": "static/media/Back.fd37b37c809d37e43122.png",
     "static/media/Forward.png": "/adhd-simulation.git/static/media/Forward.93e4591ae744e301f243.png",
     "static/media/Email.png": "/adhd-simulation.git/static/media/Email.327a9141027059198a48.png",
     "static/media/IE Home.png": "/adhd-simulation.git/static/media/IE Home.59bab40e9bbaa8afb895.png",
@@ -78,7 +78,7 @@
     "index.html": "index.html",
     "main.92b1f14e.css.map": "static/css/main.92b1f14e.css.map",
     "main.11353566.js.map": "static/js/main.11353566.js.map",
-    "787.dddb8f2a.chunk.js.map": "static/js/787.dddb8f2a.chunk.js.map"
+    "787.dddb8f2a.chunk.js.map": "js/787.dddb8f2a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.92b1f14e.css",
